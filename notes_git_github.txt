@@ -1,0 +1,3 @@
+vi is basically used for visit the file  example vi notes.txt
+git add, git init ,git status,git commit are more useful
+hello
