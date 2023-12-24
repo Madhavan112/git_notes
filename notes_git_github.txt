@@ -1,3 +1,14 @@
-vi is basically used for visit the file  example vi notes.txt
-git add, git init ,git status,git commit are more useful
-hello
+git remote add origin is creating a link between the original file to  push your files
+command :
+git remote(url) add origin(link name like you save telephone number is origin giving name)  link_name
+
+
+git push origin master is command to push all the changes in the respository 
+git stash is command temporarily save some feature you are working on you might may add them on future
+git add . universally add them
+
+git commit is to commit the changes made to respository.
+vi is vim editor to directly enter the file to do insert the data and to do that
+vi file name 
+after that press "i" to insert /delete
+after that press "esc" and :wq to save and quit 
